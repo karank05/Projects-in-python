@@ -2,8 +2,7 @@
 We are going to write a program that generates a random number and asks the user to guess it.
 it the player's guess is higher then the actual number, the program prints "lower number please". 
 Similary, it the uer's guess is too low , the program prints "higer number please" When the user guesses the correct number,
- the prgram displays the number guesses the player usef to arrive at the number.
-
+the prgram displays the number guesses the player usef to arrive at the number.
 
 '''
 
