@@ -1,3 +1,5 @@
+# This password manager code to help us to manage our codes.
+
 pwd = input("What is the master password? ")
 
 import os
@@ -31,3 +33,4 @@ while True:
         add()
     else:
         print("Invalid mode.")
+
